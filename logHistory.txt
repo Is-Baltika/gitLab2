@@ -1,0 +1,23 @@
+commit d7ae6d41b259dd8ae71027b14a3bcbca84fc722f
+Author: Evgeny <evgeny_yakovenko_ser@mail.ru>
+Date:   Fri Mar 10 01:36:02 2023 +0300
+
+    Add .gitignore
+
+commit ddc65692f3a02116eb86c329680f1e968f217c22
+Author: Evgeny <evgeny_yakovenko_ser@mail.ru>
+Date:   Fri Mar 10 00:50:15 2023 +0300
+
+    Merge Commit
+
+commit 33eb4378eece1d9619379a59fe218dd5de7b2393
+Author: Evgeny <evgeny_yakovenko_ser@mail.ru>
+Date:   Fri Mar 10 00:40:01 2023 +0300
+
+    Second commit
+
+commit b2627b584a57ff7cc4b18cefd9fe6006ee898aa9
+Author: Evgeny <evgeny_yakovenko_ser@mail.ru>
+Date:   Fri Mar 10 00:38:50 2023 +0300
+
+    First commit
